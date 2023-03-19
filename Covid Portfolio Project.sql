@@ -87,7 +87,6 @@ WHERE continent is not null
 ORDER BY 1,2
 
 
-
 -- Total Populatoin vs Vaccinations
 -- Shows Percentage of Population that has recieved at least one Covid Vaccine
 
